@@ -11,7 +11,7 @@ However, my biggest interest is functional programming. This was the subject of 
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on [a Web-API in Haskell using the Servant library](https://github.com/joverandout/Haskell-Servant-API)
 - 🌱 I’m currently learning how to build dependable login systems in functional programming languages
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joe-moore-2b79b01ba/) or [Email](mailto:joverandout@gmail.com)
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/joe-moore-2b79b01ba/) or [Email](mailto:joverandout@gmail.com)
 
 
 
