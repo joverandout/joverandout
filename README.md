@@ -2,7 +2,7 @@
 
 My name is Joe, I recently finished my undergrad in computer science from the university of Warwick and am joining Amazon in September as a software engineer.
 
-During my second year of university I was part of a team that took part in a Deutsche Bank software engineering competition. Worked in a SCRUM as a back-end developer in a team of 6 to develop a live meeting feedback system to display feedback from attendants on a webpage. We were awarded second place of 40 groups, for [our submission](https://github.com/joverandout/CS261-Software-Engineering).
+During my second year of university I was part of a team that took part in a Deutsche Bank software engineering competition. I worked in a SCRUM as a back-end developer in a team of 6 to develop a live meeting feedback system to display feedback from attendants on a webpage. We were awarded second place of 40 groups, for [our submission](https://github.com/joverandout/CS261-Software-Engineering).
 
 My research interests include cyber security, compiler design and fault tolerance in distributed systems.
 
