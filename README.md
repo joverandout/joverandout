@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 My name is Joe, I recently finished my undergrad in computer science from the university of Warwick and am joining Amazon in September as a software engineer.
 
