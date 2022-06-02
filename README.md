@@ -6,7 +6,7 @@ During my second year of university I was part of a team that took part in a Deu
 
 My research interests include cyber security, compiler design and fault tolerance in distributed systems.
 
-However, my biggest interest is functional programming. This was the subject of my [dissertation](https://github.com/joverandout/Web-Based-Hale-Interpreter). The project involved the design of a back-end interpreter and front-end teaching tool for Hale, a custom purely functional, dynamically typed, programming language I created. The report can be found [here](https://github.com/joverandout/Web-Based-Hale-Interpreter/raw/main/Final%20report.pdf).
+However, my biggest interest is functional programming. This was the subject of my [dissertation](https://github.com/joverandout/Web-Based-Hale-Interpreter). The project involved the design of a back-end interpreter and front-end teaching tool for Hale, a custom purely functional, dynamically typed, programming language that I created. The report can be found [here](https://github.com/joverandout/Web-Based-Hale-Interpreter/raw/main/Final%20report.pdf).
 
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on [a Web-API in Haskell using the Servant library](https://github.com/joverandout/Haskell-Servant-API)
