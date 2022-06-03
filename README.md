@@ -8,9 +8,9 @@ My research interests include cyber security, compiler design and fault toleranc
 
 However, my biggest interest is functional programming. This was the subject of my [dissertation](https://github.com/joverandout/Web-Based-Hale-Interpreter). The project involved the design of a back-end interpreter and front-end teaching tool for Hale, a custom purely functional, dynamically typed, programming language that I created. The report can be found [here](https://github.com/joverandout/Web-Based-Hale-Interpreter/raw/main/Final%20report.pdf).
 
-😄 Pronouns: He/Him
-🔭 I’m currently working on an API in Haskell using Servant *(unfortunately had to be hidden to protect access tokens & private keys)*
-🌱 I’m currently learning how to build dependable login systems in purely functional programming languages
+😄 Pronouns: He/Him<br>
+🔭 I’m currently working on an API in Haskell using Servant *(unfortunately had to be hidden to protect access tokens & private keys)*<br>
+🌱 I’m currently learning how to build dependable login systems in purely functional programming languages<br>
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/joe-moore-2b79b01ba/) and [Email](mailto:joverandout@gmail.com)
 
 
