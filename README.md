@@ -5,7 +5,7 @@
 ☯️ Haskell enthusiast / Scala pragmatist <br>
 💥 Typescript web developer <br>
 
-# Past Projects
+## Past Projects
 
 -   [Skavengr](https://skavengr.com), created with [Krystian Karski](https://github.com/ikarsk), allows you to create and run your own interactive scavenger hunts. These feature questions with embedded images, videos and Streetview maps, fully customisable question orders for each team, and live stats during the game including team progress and individual team guesses.
 -   [Hale Interpreter](https://github.com/joverandout/Web-Based-Hale-Interpreter) is a web-based interpreter and teaching tool for functional programming, made for my [dissertation](https://github.com/joverandout/Web-Based-Hale-Interpreter/blob/main/Final%20report.pdf).
