@@ -1,6 +1,6 @@
 # Joe Moore
 
-Software Engineer at Amazon. Distributed systems in Java, Rust and Typescript. Test driven development. AWS Microservices (ECS, DDB, Cloudfront, Cloudwatch, Fargate etc.). CI/CD. Pipelines as Code. Agile methodology.
+Software Engineer at Amazon. Distributed systems in Java, Rust and Typescript. Test driven development. AWS Microservices (ECS, EC2, DDB, Cloudfront, Cloudwatch, Fargate etc.). CI/CD. Pipelines as Code. Agile methodology.
 
 ## Past Projects
 
